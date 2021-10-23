@@ -15,7 +15,7 @@ Data Analytics | ETL | Data Visualization | Machine Learning | Deep Learning | N
 
 
 ## 🙋‍♂️ About Me
--  An NLP based project ignited a spark that has guided me for 5 years to read,study and code about things that keep haunting in mydreams. Example : Data Structures,Algorithms and math behind Recurrent Neural networks.
+-  An NLP based project ignited a spark that has guided me for 5 years to read,study and code about things that still keep haunting in mydreams,for instance, Data Structures,Algorithms and math behind Recurrent Neural networks.
 
 - 🔭 I’m currently working on a NeuroScience based Project **[University of Washington- Neural Data ](https://www.kaggle.com/c/uwndc19/overview)**
 
