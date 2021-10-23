@@ -10,6 +10,8 @@ data analytics into business decision making is what gives organizations an edge
 Willingness to adapt to change, critical thinking, ability to work with and lead teams are my some of my most valuable qualities. 
 I am open to exploring and picking up additional skills as needed to fit into a specific job role.
 
+Data Analytics | ETL | Data Visualization | Machine Learning | Deep Learning | NLP | CNN | PowerBI | MySQL
+
 
 
 ## 🙋‍♂️ About Me
